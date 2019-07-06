@@ -4,6 +4,8 @@ namespace Exemplo {
     class Program {
         static void Main(string[] args) {
 
+            Console.WriteLine("ola entre com seus dados: ");
+
             Console.WriteLine("entre com seu nome: ");
             string a = Console.ReadLine();
             Console.WriteLine("entre com sua idade");
